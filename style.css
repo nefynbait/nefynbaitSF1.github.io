@@ -1,0 +1,64 @@
+h1
+{ 
+	color:red;
+
+
+}
+h2
+{
+	color:blue;
+}
+body
+{
+	font-family: comic sans ms, helvetica;
+	font-size: 20;
+	
+	margin: 30;
+	
+	color: blue;
+}
+.img1
+{
+	background-image: url("avengers.jpg");
+}
+.img2
+{
+	background-image: url("black widow.jpg");
+}
+.img3
+{
+	background-image: url("spider2.jpg");
+}
+
+strong
+{
+	font-family: algerian;
+	font-size: 20;
+}
+u
+{
+	font-family: algerian;
+	font-size: 20;
+}
+.container
+{
+	width: 400px;
+	height: 200px;
+	margin-left: 350px;
+	border-left: 25px red solid;
+	border-top: 5px red solid;
+	padding-left: 15px ;
+	padding-top: 10px ;
+}
+.container1
+{
+	border-left: 25px red solid;
+	border-top: 5px red solid;
+	padding-left: 15px ;
+	padding-top: 10px ;
+
+}
+.links a
+{
+background-color: green;
+}
